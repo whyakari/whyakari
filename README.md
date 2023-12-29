@@ -1,5 +1,5 @@
 ### Hi there  👋
   
 ### Github stats  
-[![wulan17](https://raw.githubusercontent.com/wulan17/wulan17/master/generated/overview.svg)](https://github.com/wulan17)
-[![wulan17](https://raw.githubusercontent.com/wulan17/wulan17/master/generated/languages.svg)](https://github.com/wulan17)  
+[![akari](https://raw.githubusercontent.com/whyakari/whyakari/master/generated/overview.svg)](https://github.com/whyakari)
+[![akari](https://raw.githubusercontent.com/whyakari/whyakari/master/generated/languages.svg)](https://github.com/whyakari)  
