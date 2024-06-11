@@ -18,9 +18,6 @@ I'm Hikikomori _(huh..?)_ and my hobbies are playing games (mmorpg like genshin)
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=whyakari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyakari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-## **🕰️ Time Coding**
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=whyakari&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff" alt"time codding">
-
 ## **🧋Cutie Counter**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@whyakari?theme=moebooru-h"> <br/>
