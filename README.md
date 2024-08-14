@@ -10,7 +10,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/whyakari"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm Hikikomori _(huh..?)_ and my hobbies are playing games (mmorpg like genshin), watching anime, reading manga/manhwa, and sometimes tinkering with random stuff like coding (I love doing this).
+I'm ~~Hikikomori~~ _(huh..?)_ and my hobbies are playing games (mmorpg like genshin), watching anime, reading manga/manhwa, and sometimes tinkering with random stuff like coding (I love doing this).
 <br><br>
 
 ## **📊 Github Stats**
