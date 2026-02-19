@@ -3,7 +3,7 @@
 
 <a href=""><img align="right" width="425" src="https://lanyard.kyrie25.me/api/638143475379994678?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-### Hi!👋 I'm Shoiya A. 👾
+### Hi!👋 I'm Akari A. 👾
 > おいおい、野獣の隠れ家へようこそ。
 
 **Back-end Developer and Android enthusiast.**
